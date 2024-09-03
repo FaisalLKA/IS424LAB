@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(225, 8, 8);
+    text-align: center;
+  }
+  
+  body {
+    background-color: #d6c1c1;
+    font-family: 'Times New Roman', serif;
+    padding: 20px;
+    font-size:larger;
+  }
+
+  p1{
+    font-size: 22px;
+  }
